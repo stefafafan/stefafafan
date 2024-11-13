@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 💁 I'm a Japanese Software Engineer currently working for [KAKEHASHI Inc.](https://www.kakehashi.life/)
+- 🦀 I'm currently interested in the Rust programming language.
+- 🗣️ I'm fluent in both English and Japanese.
+- 📫 You can reach me via X (formerly Twitter): [@stefafafan](https://x.com/stefafafan)
+
 <!--
 **stefafafan/stefafafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
