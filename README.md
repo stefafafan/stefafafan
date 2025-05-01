@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💁 I'm a Japanese Software Engineer currently working for [KAKEHASHI Inc.](https://www.kakehashi.life/)
+- 💁 I'm a Japanese Software Engineer.
 - 🦀 I'm currently interested in the Rust programming language.
 - 🗣️ I'm fluent in both English and Japanese.
 - 📫 You can reach me via X (formerly Twitter): [@stefafafan](https://x.com/stefafafan)
