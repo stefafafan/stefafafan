@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💁 I'm a Japanese Software Engineer.
-- 🦀 I'm currently interested in the Rust programming language.
+- 🏦 I work at a Japanese startup called [SmartBank, Inc.](https://smartbank.co.jp/en/)
 - 🗣️ I'm fluent in both English and Japanese.
 - 📫 You can reach me via X (formerly Twitter): [@stefafafan](https://x.com/stefafafan)
 
